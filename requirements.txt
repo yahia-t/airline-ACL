@@ -7,3 +7,4 @@ shap
 lime
 jupyter
 missingno
+vaderSentiment
