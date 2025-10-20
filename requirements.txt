@@ -8,3 +8,6 @@ lime
 jupyter
 missingno
 vaderSentiment
+sklearn
+tensorflow
+keras
