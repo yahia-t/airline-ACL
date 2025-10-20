@@ -9,3 +9,4 @@ jupyter
 missingno
 vaderSentiment
 nltk
+tensorflow
